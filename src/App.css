@@ -1,0 +1,12 @@
+html{
+  background-color: black;
+  overflow: hidden;
+}
+
+.rquote{
+  text-align: center;
+  color: white;
+  padding: 50px;
+  background-color: blue;
+  font-size: 50px;
+}
